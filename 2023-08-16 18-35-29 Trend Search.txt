@@ -1,0 +1,27 @@
+united_states
+
+                     0
+0  Man City vs Sevilla
+1      Manchester City
+2    Bruce Springsteen
+3              Madonna
+4          Keke Palmer
+
+india
+
+                         0
+0                      CPL
+1  Mohun Bagan Super Giant
+2              Inter Miami
+3      Man City vs Sevilla
+4           Parsi New Year
+
+united_kingdom
+
+                     0
+0           Lewis Hall
+1  Man City vs Sevilla
+2          Inter Miami
+3                 Endo
+4              Sam Fox
+
