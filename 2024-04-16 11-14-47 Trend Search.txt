@@ -1,0 +1,27 @@
+united_states
+
+                      0
+0             Red Wings
+1     Detroit Red Wings
+2                Bruins
+3             Satellite
+4  Boston Marathon 2024
+
+india
+
+                         0
+0                RR vs KKR
+1  Kannada actor Dwarakish
+2                  Chelsea
+3             Rahul Gandhi
+4               Avesh Khan
+
+united_kingdom
+
+                           0
+0            Natalie Viscuso
+1           Register to vote
+2  Copenhagen stock exchange
+3                  Liz Truss
+4                Rhea Ripley
+
