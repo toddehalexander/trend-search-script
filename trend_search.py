@@ -24,7 +24,6 @@ for country in countries:
     trending_searches(country)
     print('')
 
-
 sys.stdout.close()
 
 sys.stdout = sys.__stdout__
