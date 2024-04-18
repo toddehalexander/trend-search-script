@@ -25,4 +25,5 @@ for country in countries:
     print('')
 
 sys.stdout.close()
+
 sys.stdout = sys.__stdout__
